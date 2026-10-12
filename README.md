@@ -609,7 +609,7 @@ It is highly suitable for students preparing for interviews in:
 
 # 👨‍💻 Author
 
-**Akhil Kumar Singh**
+**Abhinaw Singh**
 
 **B.Tech (Computer Science Engineering)**
 
