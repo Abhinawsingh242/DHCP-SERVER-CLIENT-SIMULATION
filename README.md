@@ -1,4 +1,4 @@
-# 🚀 DHCP Server-Client Simulation using UDP Socket Programming (C)
+# 🚀 DHCP Server-Client Simulation using UDP Socket Programming (C) #
  
 A **DHCP (Dynamic Host Configuration Protocol)** Server-Client simulation developed in **C using UDP Socket Programming**. This project demonstrates how a DHCP server dynamically assigns IP addresses to clients through the standard **4-step DHCP handshake**, along with **lease management**, **lease expiration checking**, and **dynamic IP allocation**.
 
